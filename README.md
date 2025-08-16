@@ -1,13 +1,14 @@
-# Hi there, I'm Srushtee👋
+# Hi there, I'm Srushtee👋👩‍💻
 
-### 👨‍💻 About Me
+## 🌸 About Me
+ 
+A curious mind exploring the world of tech — one project at a time!  
+I love turning ideas into simple, smart, and useful creations.  
+Currently learning **Power BI**, **Python**, and a little bit of magic ✨
 
-I'm a passionate Computer Science graduate interested in exploring **Data Science**, **Web Development**, and anything tech I can learn and build with!  
-I love creating small, useful projects and growing my skills every day.
-
-- 🌱 I’m currently pursuing: Master's in Data Science and Big Data Analytics
-- 💬 Ask me about: anything tech, portfolios, music and coffee ☕
-- 📫 How to reach me: srushtee.talekar1@gmail.com
+🧰 Tools I use: SQL • Excel • HTML/CSS • Git • Jupyter  
+🎯 Goal: Build real-world projects and grow as a data-driven developer  
+🎨 Hobbies: Doodling, journaling, and getting lost in good playlists 🎧
 
 ---
 
