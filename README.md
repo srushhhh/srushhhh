@@ -28,5 +28,5 @@ I love creating small, useful projects and growing my skills every day.
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/srushtee-talekar-1a76252a7/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/srushtee-talekar-1a76252a7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&style=flat)](https://yourportfolio.com)
